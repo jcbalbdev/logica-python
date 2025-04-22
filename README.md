@@ -42,6 +42,7 @@ Un recorrido paso a paso para que desarrolles y domines tu lógica de programaci
 
 ### 🦄 Nivel 2
 - [`lv2-concatenacion-de-texto.py`](./lv2-concatenacion-de-texto.py)
+- [`lv2-usando-const.py`](./lv2-usando-const.py)
 
 ### 🦄 Nivel 3
 - [`lv3-conversion-de-tipos.py`](./lv3-conversion-de-tipos.py)
