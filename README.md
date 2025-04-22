@@ -38,7 +38,7 @@ Un recorrido paso a paso para que desarrolles y domines tu lógica de programaci
 
 ### 🦄 Nivel 1
 - [`lv1-declara-tus-primeras-variables.py`](./lv1-declara-tus-primeras-variables.py)
-- [`lv1-es-mayor-de-edad.py`](./lv1-es-mayor-de-edad.py)
+- [`lv1-suma-basica-de-numeros.py`](./lv1-suma-basica-de-numeros.py)
 
 
 
