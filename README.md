@@ -40,6 +40,8 @@ Un recorrido paso a paso para que desarrolles y domines tu lógica de programaci
 - [`lv1-declara-tus-primeras-variables.py`](./lv1-declara-tus-primeras-variables.py)
 - [`lv1-suma-basica-de-numeros.py`](./lv1-suma-basica-de-numeros.py)
 
+### 🦄 Nivel 2
+- [`lv2-concatenacion-de-texto.py`](./lv2-concatenacion-de-texto.py)
 
 
 ---
