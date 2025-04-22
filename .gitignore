@@ -1,0 +1,17 @@
+# 📦 Archivos generados por Python
+__pycache__/
+*.pyc
+*.pyo
+
+# 💻 Archivos del sistema operativo
+.DS_Store            # macOS
+Thumbs.db            # Windows
+
+# ⚙️ Configuraciones de VSCode (opcional)
+.vscode/
+
+# 🧾 Archivos de log temporales
+*.log
+
+# 🔁 Script automático (ignorar si no deseas subirlo)
+auto-commit.ps1
