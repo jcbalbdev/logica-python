@@ -1,6 +1,6 @@
 """ Declara una constante para el valor de PI y úsala para calcular el área de un círculo con radio 4. """
 
-PI: int = 3.141592
+PI: float = 3.141592
 RADIO_CIRCULO: int = 4
 
 area_circulo: float = PI*RADIO_CIRCULO**2
