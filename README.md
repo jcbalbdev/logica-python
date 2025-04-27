@@ -1,11 +1,11 @@
 <h1 align="center">
-  <strong>Aprende, Piensa y Domina la Lógica con TypeScript con 65 Retos de Principiante a Pro</strong>
+  <strong>Aprende, Piensa y Domina la Lógica con Python con Retos de Principiante a Pro</strong>
 </h1>
 
 <img src="./Imagenes/python banner.png" alt="Python desde cero banner" width="100%" />
 
 <p align="center">
-  Aprende lógica de programación desde cero con ejercicios prácticos y progresivos usando <strong>TypeScript</strong> 💻🧠
+  Aprende lógica de programación desde cero con ejercicios prácticos y progresivos usando <strong>Python</strong> 💻🧠
 </p>
 
 <p align="center">
