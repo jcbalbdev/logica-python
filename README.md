@@ -27,9 +27,7 @@
 - [ ¿Qué es esto?](#-qué-es-esto)
 - [ Tema: Declaración de Datos y su Uso](#-tema-declaración-de-datos-y-su-uso)
   - [🧩 Ejercicios](#-ejercicios)
-  - [🦄 Nivel 1](#-nivel-1)
-  - [🦄 Nivel 2](#-nivel-2)
-  - [🦄 Nivel 3](#-nivel-3)
+- [ Créditos](#-créditos)
 
 ---
 
@@ -54,24 +52,19 @@ Este tema es fundamental porque define cómo representas y manipulas la informac
 
 ### 🧩 Ejercicios
 
-- [`lv1-suma-de-numeros.ts`](./Ejercicios/lv1-suma-de-numeros.ts)
-- [`lv2-concatenacion-de-texto.ts`](./Ejercicios/lv2-concatenacion-de-texto.ts)
-- [`lv2-usando-const.ts`](./Ejercicios/lv2-usando-const.ts)
-- [`lv3-conversion-de-tipos.ts`](./Ejercicios/lv3-conversion-de-tipos.ts)
-
-### 🦄 Nivel 1
 - [`lv1-declara-tus-primeras-variables.py`](./lv1-declara-tus-primeras-variables.py)
 - [`lv1-suma-basica-de-numeros.py`](./lv1-suma-basica-de-numeros.py)
-
-### 🦄 Nivel 2
+- [`lv1-es-mayor-de-edad.py`](./lv1-es-mayor-de-edad.py)
 - [`lv2-concatenacion-de-texto.py`](./lv2-concatenacion-de-texto.py)
 - [`lv2-usando-const.py`](./lv2-usando-const.py)
-
-### 🦄 Nivel 3
 - [`lv3-conversion-de-tipos.py`](./lv3-conversion-de-tipos.py)
-
 
 ---
 
-<p align="center"> Con 💜 por <a href="https://github.com/jcbalbdev">jcbalbdev</a> | ¡Sigue programando! </p>
+## <img src="http://www.nyan.cat/cats/original.gif" width="50" style="vertical-align: middle;" /> Créditos
+
+<p align="center">
+  Hecho con 💜 por <a href="https://github.com/jcbalbdev" target="_blank">@jcbalbdev</a> <br/>
+  ¡Que el código te acompañe! ⚔️
+</p>
 
